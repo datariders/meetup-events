@@ -1,6 +1,7 @@
 Speakers:
 
 Carina Dreifeldt, CEO, Speedment Inc.
+
 Per Minborg, CTO, Speedment Inc.
 
 
