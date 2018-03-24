@@ -14,3 +14,10 @@ https://www.meetup.com/datariders
     - Pramod Immaneni, Chief Architect, Director at DataTorrent, PMC Apache Apex
     - Amol Kekre, CTO and Co-Founder, DataTorrent
   - LINK:  https://www.meetup.com/datariders/events/229415890/
+
+
+- **2016_05_17:**  
+  - TITLE:  **Using TensorFlow and Deep Learning for Image Recognition**
+  - SPEAKERS:
+    - Asim Jalis, Senior Technical Trainer at Amazon
+  - LINK:  https://www.meetup.com/datariders/events/229650124/
