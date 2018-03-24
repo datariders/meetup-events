@@ -2,12 +2,13 @@
 
 This repo has the material from the various Data Riders meetup events.  This includes slide decks, git repo, audio/video, etc.
 
-https://www.meetup.com/datariders/events/229415890/
+Here is the **Data Riders** meet-up link:
+https://www.meetup.com/datariders
+ 
 
-Title:  Introduction to Apache Apex - The next generation native Hadoop platform
-Date:  2016_04_05
-Speakers:  
-Pramod Immaneni, Chief Architect, Director at DataTorrent, PMC Apache Apex
-Amol Kekre, CTO and Co-Founder, DataTorrent
-
-
+- 2016_04_05:  
+  - *Title:  Introduction to Apache Apex - The next generation native Hadoop platform*
+  - *Speakers:*
+    - Pramod Immaneni, Chief Architect, Director at DataTorrent, PMC Apache Apex
+    - Amol Kekre, CTO and Co-Founder, DataTorrent
+  - Link:  https://www.meetup.com/datariders/events/229415890/
