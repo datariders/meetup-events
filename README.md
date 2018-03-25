@@ -43,6 +43,14 @@ https://www.meetup.com/datariders
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_27
 
 
+- **2018_02_10**
+  - **Title:**
+    - **Building Data products @ Uber**
+  - **Speaker(s):**
+    - **Hari Subramanian**, Engineering Manager, **Uber**
+  - **Link:**  https://github.com/datariders/meetup-events/tree/master/2018_02_10
+
+
 - **2018_03_21**
   - **Title:**
     - **How to Use Java 8 Streams to Access Existing Data with Ultra-low Latency**

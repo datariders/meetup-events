@@ -1,0 +1,6 @@
+- **2018_02_10**
+  - **Title:**
+    - **Building Data products @ Uber**
+  - **Speaker(s):**
+    - **Hari Subramanian**, Engineering Manager, **Uber**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/244891047/
