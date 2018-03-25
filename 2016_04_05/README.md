@@ -2,8 +2,8 @@
   - **Title:**
     - **Introduction to Apache Apex - The next generation native Hadoop platform**
   - **Speaker(s):**
-    - Pramod Immaneni, Chief Architect, Director at **DataTorrent**, PMC Apache Apex
-    - Amol Kekre, CTO and Co-Founder, **DataTorrent**
+    - **Pramod Immaneni**, Chief Architect, Director at **DataTorrent**, PMC Apache Apex
+    - **Amol Kekre**, CTO and Co-Founder, **DataTorrent**
   - **Meetup link:**  https://www.meetup.com/datariders/events/229415890/
   - **Slide deck link:**  http://www.slideshare.net/ApacheApex/introduction-to-apache-apex
   - **Video link:**  https://www.youtube.com/watch?v=HxdbTGbRLJ4
