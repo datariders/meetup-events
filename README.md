@@ -8,7 +8,7 @@ https://www.meetup.com/datariders
 
  
 
-- **2016_04_05**  
+- **2016_04_05**
   - **Title:**
     - **Introduction to Apache Apex - The next generation native Hadoop platform**
   - **Speaker(s):**
@@ -17,7 +17,7 @@ https://www.meetup.com/datariders
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_04_05
 
 
-- **2016_05_17**  
+- **2016_05_17**
   - **Title:**
     - **Using TensorFlow and Deep Learning for Image Recognition**
   - **Speaker(s):**
@@ -25,7 +25,7 @@ https://www.meetup.com/datariders
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_05_17
 
 
-- **2016_06_08**  
+- **2016_06_08**
   - **Title:**
     - **Building Pipeline with Kafka Connect**
   - **Speaker(s):**
@@ -33,7 +33,7 @@ https://www.meetup.com/datariders
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_08
 
 
-- **2016_06_27**  
+- **2016_06_27**
   - **Title:**
     - **IoT for Big Machines & 1-Click Deploy, Scale, SparkML & TensorFlow with Docker**
   - **Speaker(s):**
@@ -41,3 +41,12 @@ https://www.meetup.com/datariders
     - **Jayant Thomas**, Sr.Engineering Manager for the Predix Apps, **GE**
     - **Shyam Varan Nath**, Industrial Internet / IoT Architect, **GE Digital**
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_27
+
+
+- **2018_03_21**
+  - **Title:**
+    - **How to Use Java 8 Streams to Access Existing Data with Ultra-low Latency**
+  - **Speaker(s):**
+    - **Carina Dreifeldt**, CEO and Co-Founder, **Speedment, Inc.**
+    - **Per Minborg**, CTO and Co-Founder, **Speedment, Inc.**
+  - **Link:**  https://github.com/datariders/meetup-events/tree/master/2018_03_21

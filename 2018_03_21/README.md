@@ -1,9 +1,8 @@
-Speakers:
-
-Carina Dreifeldt, CEO, Speedment Inc.
-
-Per Minborg, CTO, Speedment Inc.
-
-
-
-Slide deck:  https://www.slideshare.net/secret/sNYXkat6XufaGr
+- **2018_03_21**
+  - **Title:**
+    - **How to Use Java 8 Streams to Access Existing Data with Ultra-low Latency**
+  - **Speaker(s):**
+    - **Carina Dreifeldt**, CEO and Co-Founder, **Speedment, Inc.**
+    - **Per Minborg**, CTO and Co-Founder, **Speedment, Inc.**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/244709565/
+  - **Slide deck link**: https://www.slideshare.net/secret/sNYXkat6XufaGr
