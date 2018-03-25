@@ -21,7 +21,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Using TensorFlow and Deep Learning for Image Recognition**
   - **Speaker(s):**
-    - Asim Jalis, Senior Technical Trainer at Amazon
+    - **Asim Jalis**, Senior Technical Trainer at **Amazon**
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_05_17
 
 
