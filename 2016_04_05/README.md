@@ -1,4 +1,4 @@
-- **2016_04_05:**
+- **2016_04_05**
   - **Title:**  **Introduction to Apache Apex - The next generation native Hadoop platform**
   - **Speaker(s):**
     - Pramod Immaneni, Chief Architect, Director at DataTorrent, PMC Apache Apex
