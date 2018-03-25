@@ -31,3 +31,13 @@ https://www.meetup.com/datariders
   - **Speaker(s):**
     - Liquan Pei, Software Engineer, Confluent
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_08
+
+
+- **2016_06_27**  
+  - **Title:**
+    - **IoT for Big Machines & 1-Click Deploy, Scale, SparkML & TensorFlow with Docker**
+  - **Speaker(s):**
+    - Chris Fregly, Founder, CEO, Applied AI at PipelineAI
+    - Jayant Thomas, Sr.Engineering Manager for the Predix Apps, GE
+    - Shyam, Industrial Internet / IoT Architect, GE Digital
+  - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_27
