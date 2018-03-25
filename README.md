@@ -37,7 +37,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **IoT for Big Machines & 1-Click Deploy, Scale, SparkML & TensorFlow with Docker**
   - **Speaker(s):**
-    - Chris Fregly, Founder, CEO, Applied AI at PipelineAI
-    - Jayant Thomas, Sr.Engineering Manager for the Predix Apps, GE
-    - Shyam, Industrial Internet / IoT Architect, GE Digital
+    - **Chris Fregly**, Founder, CEO, Applied AI at **PipelineAI**
+    - **Jayant Thomas**, Sr.Engineering Manager for the Predix Apps, **GE**
+    - **Shyam Varan Nath**, Industrial Internet / IoT Architect, **GE Digital**
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_27
