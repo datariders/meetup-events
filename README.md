@@ -29,7 +29,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Building Pipeline with Kafka Connect**
   - **Speaker(s):**
-    - Liquan Pei, Software Engineer, Confluent
+    - **Liquan Pei**, Software Engineer, **Confluent**
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2016_06_08
 
 
