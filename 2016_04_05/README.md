@@ -9,30 +9,11 @@ https://www.meetup.com/datariders
 
 
 - **2016_04_05:**
-  - TITLE:  **Introduction to Apache Apex - The next generation native Hadoop platform**
-  - SPEAKER(S):
+  - **Title:**  **Introduction to Apache Apex - The next generation native Hadoop platform**
+  - **Speaker(s):**
     - Pramod Immaneni, Chief Architect, Director at DataTorrent, PMC Apache Apex
     - Amol Kekre, CTO and Co-Founder, DataTorrent
-  - MEETUP LINK:  https://www.meetup.com/datariders/events/229415890/
-  - SLIDE DECK LINK:  http://www.slideshare.net/ApacheApex/introduction-to-apache-apex
-  - VIDEO LINK:  https://www.youtube.com/watch?v=HxdbTGbRLJ4
-  - LINK to the application built during the meetup is here:  https://drive.google.com/file/d/0B5OTfF1muyBQYXcxNVBrczBuQ2s/view?usp=sharing
-
-
-
-
-Speaker(s):  
-
-Pramod Immaneni, Chief Architect, Director at DataTorrent, PMC Apache Apex
-Amol Kekre, CTO and Co-Founder, DataTorrent
-
-
-
-Slide deck is available here:
-http://www.slideshare.net/ApacheApex/introduction-to-apache-apex
-
-Video recording of the webinar is here:
-https://www.youtube.com/watch?v=HxdbTGbRLJ4
-
-Link to the application built during the meetup is here:
-https://drive.google.com/file/d/0B5OTfF1muyBQYXcxNVBrczBuQ2s/view?usp=sharing
+  - **Meetup link:**  https://www.meetup.com/datariders/events/229415890/
+  - **Slide deck link:**  http://www.slideshare.net/ApacheApex/introduction-to-apache-apex
+  - **Video link:**  https://www.youtube.com/watch?v=HxdbTGbRLJ4
+  - **Link to the application built during the meet-up:**  https://drive.google.com/file/d/0B5OTfF1muyBQYXcxNVBrczBuQ2s/view?usp=sharing
