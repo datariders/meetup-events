@@ -1,0 +1,6 @@
+- **2018_04_25**
+  - **Title:**
+    - **Building a modern app at Cloud scale with Containers and Data Services**
+  - **Speaker(s):**
+    - **Karthik Ranganathan**, Co-Founder and CTO, **YugaByte**
+  - **Video and Slide link:**  https://www.yugabyte.com/resources/online-talks/cloud-scale-apps-with-sql-nosql/

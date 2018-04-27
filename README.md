@@ -58,3 +58,11 @@ https://www.meetup.com/datariders
     - **Carina Dreifeldt**, CEO and Co-Founder, **Speedment, Inc.**
     - **Per Minborg**, CTO and Co-Founder, **Speedment, Inc.**
   - **Link:**  https://github.com/datariders/meetup-events/tree/master/2018_03_21
+
+
+- **2018_04_25**
+  - **Title:**
+    - **Building a modern app at Cloud scale with Containers and Data Services**
+  - **Speaker(s):**
+    - **Karthik Ranganathan**, Co-Founder and CTO, **YugaByte**
+  - **Video and Slide link:**  https://www.yugabyte.com/resources/online-talks/cloud-scale-apps-with-sql-nosql/
