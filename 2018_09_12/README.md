@@ -1,0 +1,6 @@
+- **2018_09_12**
+  - **Title:**
+    - **Introduction to Deep Learning and TensorFlow (for beginners)**
+  - **Speaker(s):**
+    - **Oswald Campesato**, Co-Founder and CEO, **iQuarkt**
+  - **Video and Slide link:**  https://www.slideshare.net/ocampesato/introduction-to-deep-learning-and-tensorflow-114208321
