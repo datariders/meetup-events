@@ -1,0 +1,7 @@
+- **2018_12_06**
+  - **Title:**
+    - **"Data-Mart-in-a-Box" with Hadoop and Druid**
+  - **Speaker(s):**
+    - **Josh Walters**, Software Engineer
+  - **Slides:** https://github.com/joshwalters/tech-talks/blob/master/dmiab/dmaib.pdf
+  - **HyperLogLog Demo Code:** https://github.com/joshwalters/tech-talks/tree/master/dmiab/hlldemo
