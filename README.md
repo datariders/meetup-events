@@ -81,3 +81,10 @@ https://www.meetup.com/datariders
       - [https://www.alexkalinin.com/using-docker-image-recognition-workshop-spark-bigdl/](https://www.alexkalinin.com/using-docker-image-recognition-workshop-spark-bigdl/)
 
 
+- **2019-08-29**
+  - **Title:**
+    - **Developing Apps on OpenShift: An Intro to Red Hat's Kubernetes Distribution**
+  - **Speaker:**
+    - **Josh Wood**, Developer Advocate, **Red Hat**
+  - **Meetup Link**: [https://www.meetup.com/datariders/events/263759925/(https://www.meetup.com/datariders/events/263759925/)
+
