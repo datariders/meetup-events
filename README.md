@@ -86,7 +86,7 @@ https://www.meetup.com/datariders
     - **Developing Apps on OpenShift: An Intro to Red Hat's Kubernetes Distribution**
   - **Speaker:**
     - **Josh Wood**, Developer Advocate, **Red Hat**
-  - **Meetup Link**: [https://www.meetup.com/datariders/events/263759925/(https://www.meetup.com/datariders/events/263759925/)
+  - **Meetup Link**: https://www.meetup.com/datariders/events/263759925/(https://www.meetup.com/datariders/events/263759925/)
 
 - **2019-09-19
   - **Title:**
@@ -95,5 +95,14 @@ https://www.meetup.com/datariders
     - **Vadim Ogievetsky**, CPO/Co-founder, **Imply**
   - **Meetup Link**: [https://www.meetup.com/datariders/events/263980371/]
   - **Slide Deck(s)**:
-    - [https://speakerdeck.com/implydatainc/rethinking-druids-user-experience]
+    - https://speakerdeck.com/implydatainc/rethinking-druids-user-experience
+  
+- **2020-02-19
+  - **Title:**
+    - **Hands-on workshop: Introduction to Machine Learning with Apache Spark and Redis**
+  - **Speaker**
+    - **Scott Haines**, Principal Software Engineer, **Twilio Inc.**
+  - **Meetup Link**: [https://www.meetup.com/datariders/events/268273021/]
+  - **Slide Deck(s)**:
+    - https://github.com/newfront/spark-intro-to-ml
   
