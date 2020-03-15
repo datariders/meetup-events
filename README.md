@@ -88,7 +88,7 @@ https://www.meetup.com/datariders
     - **Josh Wood**, Developer Advocate, **Red Hat**
   - **Meetup Link**: https://www.meetup.com/datariders/events/263759925/(https://www.meetup.com/datariders/events/263759925/)
 
-- **2019-09-19
+- **2019-09-19**
   - **Title:**
     - **Rethinking Druid's User Experience**
   - **Speaker**
@@ -97,7 +97,7 @@ https://www.meetup.com/datariders
   - **Slide Deck(s)**:
     - https://speakerdeck.com/implydatainc/rethinking-druids-user-experience
   
-- **2020-02-19
+- **2020-02-19**
   - **Title:**
     - **Hands-on workshop: Introduction to Machine Learning with Apache Spark and Redis**
   - **Speaker**
