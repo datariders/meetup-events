@@ -2,7 +2,7 @@
 
 This repo has the material from the various Data Riders meetup events.  This includes slide decks, git repo, audio/video, etc.
 
-Here is the **Data Riders** meet-up link:
+Here is the **Data Riders** meet-up group link:
 https://www.meetup.com/datariders
 
 
