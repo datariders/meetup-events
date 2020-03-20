@@ -80,7 +80,6 @@ https://www.meetup.com/datariders
   - **Worskhop instructions**: 
       - [https://www.alexkalinin.com/using-docker-image-recognition-workshop-spark-bigdl/](https://www.alexkalinin.com/using-docker-image-recognition-workshop-spark-bigdl/)
 
-
 - **2019-08-29**
   - **Title:**
     - **Developing Apps on OpenShift: An Intro to Red Hat's Kubernetes Distribution**
@@ -106,3 +105,13 @@ https://www.meetup.com/datariders
   - **Slide Deck(s)**:
     - https://github.com/newfront/spark-intro-to-ml
   
+- **2020-03-18**
+  - **Title:**
+    - **Building a Grown Up Database**
+  - **Speaker**
+    - **Oren Eini**, CEO, **RavenDB**
+  - **Meetup Link**: [https://www.meetup.com/datariders/events/269393818/]
+  - **Slide Deck(s)**:
+    - https://drive.google.com/file/d/1VkTQ4DTYEnd0fer7mpvgAe2MxLy-fiNL/view
+  - **Webinar link(s)**:
+    - https://ravendb.net/learn/webinars/how-to-build-a-grown-up-database 

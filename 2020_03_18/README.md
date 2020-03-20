@@ -1,0 +1,7 @@
+- **2020_03_18**
+  - **Title:**
+    - **Building a Grown Up Database**
+  - **Speaker(s):**
+    - **Oren Eini**, CEO, **RavenDB**
+  - **Slide link:**  https://drive.google.com/file/d/1VkTQ4DTYEnd0fer7mpvgAe2MxLy-fiNL/view
+  - **Webinar link:**  https://ravendb.net/learn/webinars/how-to-build-a-grown-up-database
