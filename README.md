@@ -95,6 +95,13 @@ https://www.meetup.com/datariders
   - **Meetup Link**: [https://www.meetup.com/datariders/events/263980371/]
   - **Slide Deck(s)**:
     - https://speakerdeck.com/implydatainc/rethinking-druids-user-experience
+
+- **2019-12-17**
+  - **Title:**
+    - **Building a best-in-class Data Lake on AWS and Azure**
+  - **Speaker**
+    - **Ryan Murray**, Principal Consulting Engineer, **Dremio**
+  - **Meetup Link**: [https://www.meetup.com/datariders/events/266951424/]
   
 - **2020-02-19**
   - **Title:**

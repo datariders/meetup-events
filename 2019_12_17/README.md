@@ -1,0 +1,6 @@
+- **2019_12_17**
+  - **Title:**
+    - **Building a best-in-class Data Lake on AWS and Azure**
+  - **Speaker(s):**
+    - **Ryan Murray**, Principal Consulting Engineer, **Dremio**
+  - **Meetup link:** https://www.meetup.com/datariders/events/266951424/ 
