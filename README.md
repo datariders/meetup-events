@@ -102,6 +102,7 @@ https://www.meetup.com/datariders
   - **Speaker**
     - **Scott Haines**, Principal Software Engineer, **Twilio Inc.**
   - **Meetup Link**: [https://www.meetup.com/datariders/events/268273021/]
+  - **Flyer**: ![](2020_02_19_HandsOnWorkshop_IntroductionToMachineLearningWithApacheSparkAndRedis_ScottHaines_Twilio_flyer.png)
   - **Slide Deck(s)**:
     - https://github.com/newfront/spark-intro-to-ml
   
