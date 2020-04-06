@@ -109,7 +109,6 @@ https://www.meetup.com/datariders
   - **Speaker**
     - **Scott Haines**, Principal Software Engineer, **Twilio Inc.**
   - **Meetup Link**: [https://www.meetup.com/datariders/events/268273021/]
-  - **Flyer**: ![](2020_02_19_HandsOnWorkshop_IntroductionToMachineLearningWithApacheSparkAndRedis_ScottHaines_Twilio_flyer.png)
   - **Slide Deck(s)**:
     - https://github.com/newfront/spark-intro-to-ml
   
@@ -122,4 +121,11 @@ https://www.meetup.com/datariders
   - **Slide Deck(s)**:
     - https://drive.google.com/file/d/1VkTQ4DTYEnd0fer7mpvgAe2MxLy-fiNL/view
   - **Webinar link(s)**:
-    - https://ravendb.net/learn/webinars/how-to-build-a-grown-up-database 
+    - https://ravendb.net/learn/webinars/how-to-build-a-grown-up-database
+
+- **2020_04_01**
+  - **Title:**
+    - **Scale Out and Conquer: Distributed In-Memory Systems Architectural Decisions**
+  - **Speaker(s):**
+    - **Valentin Kulichenko**, Senior Solutions Architect at **GridGain Systems**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/269530892/

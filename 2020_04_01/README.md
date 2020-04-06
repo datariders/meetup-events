@@ -1,0 +1,6 @@
+- **2020_04_01**
+  - **Title:**
+    - **Scale Out and Conquer: Distributed In-Memory Systems Architectural Decisions**
+  - **Speaker(s):**
+    - **Valentin Kulichenko**, Senior Solutions Architect at **GridGain Systems**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/269530892/
