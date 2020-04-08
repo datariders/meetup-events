@@ -4,3 +4,7 @@
   - **Speaker(s):**
     - **Valentin Kulichenko**, Senior Solutions Architect at **GridGain Systems**
   - **Meetup link:**  https://www.meetup.com/datariders/events/269530892/
+  - **Slide Deck(s)**:
+    - https://go.gridgain.com/rs/491-TWR-806/images/2020-04-01_scale_out_and_conquer.pdf
+  - **Webinar link(s)**:
+    - https://www.youtube.com/watch?v=vJIrLOWMLa4&feature=youtu.be
