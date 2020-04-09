@@ -133,3 +133,21 @@ https://www.meetup.com/datariders
     - https://go.gridgain.com/rs/491-TWR-806/images/2020-04-01_scale_out_and_conquer.pdf
   - **Webinar link(s)**:
     - https://www.youtube.com/watch?v=vJIrLOWMLa4&feature=youtu.be
+
+- **2020_04_06**
+  - **Title:**
+    - **Image Recognition Fundamentals: Hands-On workshop using PyTorch and RedisAI**
+  - **Speaker(s):**
+    - **Alex Kalinin**, Engineering Lead, AI/ML Ads at **Facebook**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/269719193/
+  - **Webinar link(s)**:
+    - https://redislabs.zoom.us/rec/play/uZV-fumsq243HteXtgSDAvN5W9S5K_qs2ygcrvFenkm9BiVQNVWnYudAM-XGLM3j5HpkS3uC1GXV8Uqp
+
+- **2020_04_08**
+  - **Title:**
+    - **Image Recognition with Transfer Learning using PyTorch and RedisAI**
+  - **Speaker(s):**
+    - **Alex Kalinin**, Engineering Lead, AI/ML Ads at **Facebook**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/269720551/
+  - **Webinar link(s)**:
+    - https://redislabs.zoom.us/rec/play/7JUrdOn8-Do3ToLHtQSDV6VwW9W0eqKsgyFP-fpYzx6yAHFWOgbwYeZAY-dsnt2enxHSoV2A_KJL4OVs
