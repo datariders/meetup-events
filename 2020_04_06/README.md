@@ -1,0 +1,8 @@
+- **2020_04_06**
+  - **Title:**
+    - **Image Recognition Fundamentals: Hands-On workshop using PyTorch and RedisAI**
+  - **Speaker(s):**
+    - **Alex Kalinin**, Engineering Lead, AI/ML Ads at **Facebook**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/269719193/
+  - **Webinar link(s)**:
+    - https://redislabs.zoom.us/rec/play/uZV-fumsq243HteXtgSDAvN5W9S5K_qs2ygcrvFenkm9BiVQNVWnYudAM-XGLM3j5HpkS3uC1GXV8Uqp
