@@ -127,7 +127,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Scale Out and Conquer: Distributed In-Memory Systems Architectural Decisions**
   - **Speaker(s):**
-    - **Valentin Kulichenko**, Senior Solutions Architect at **GridGain Systems**
+    - **Valentin Kulichenko**, Senior Solutions Architect, **GridGain Systems**
   - **Meetup link:**  https://www.meetup.com/datariders/events/269530892/
   - **Slide Deck(s)**:
     - https://go.gridgain.com/rs/491-TWR-806/images/2020-04-01_scale_out_and_conquer.pdf
@@ -138,7 +138,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Image Recognition Fundamentals: Hands-On workshop using PyTorch and RedisAI**
   - **Speaker(s):**
-    - **Alex Kalinin**, Engineering Lead, AI/ML Ads at **Facebook**
+    - **Alex Kalinin**, Engineering Lead, AI/ML Ads, **Facebook**
   - **Meetup link:**  https://www.meetup.com/datariders/events/269719193/
   - **Webinar link(s)**:
     - https://redislabs.zoom.us/rec/play/uZV-fumsq243HteXtgSDAvN5W9S5K_qs2ygcrvFenkm9BiVQNVWnYudAM-XGLM3j5HpkS3uC1GXV8Uqp
@@ -147,7 +147,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Image Recognition with Transfer Learning using PyTorch and RedisAI**
   - **Speaker(s):**
-    - **Alex Kalinin**, Engineering Lead, AI/ML Ads at **Facebook**
+    - **Alex Kalinin**, Engineering Lead, AI/ML Ads, **Facebook**
   - **Meetup link:**  https://www.meetup.com/datariders/events/269720551/
   - **Webinar link(s)**:
     - https://redislabs.zoom.us/rec/play/7JUrdOn8-Do3ToLHtQSDV6VwW9W0eqKsgyFP-fpYzx6yAHFWOgbwYeZAY-dsnt2enxHSoV2A_KJL4OVs
