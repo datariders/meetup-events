@@ -1,0 +1,8 @@
+- **2020_11_18**
+  - **Title:**
+    - **Explainable AI**
+  - **Speaker(s):**
+    - **Alvin Henrick**, Principal ML Engineer at **Royal Dutch Shell**
+    - **Iman Haji**, Sr. Data Scientist at **Clarify Health Solutions**
+  - **Meetup link:**  https://us02web.zoom.us/j/89137630022
+  - **Slides link:**  https://www2.slideshare.net/ImanHajiabolhassaniP/explainable-ai-datariders20201118
