@@ -151,3 +151,11 @@ https://www.meetup.com/datariders
   - **Meetup link:**  https://www.meetup.com/datariders/events/269720551/
   - **Webinar link(s)**:
     - https://redislabs.zoom.us/rec/play/7JUrdOn8-Do3ToLHtQSDV6VwW9W0eqKsgyFP-fpYzx6yAHFWOgbwYeZAY-dsnt2enxHSoV2A_KJL4OVs
+
+- **2020_12_15**
+  - **Title:**
+    - **An introduction to Presto, the open source distributed SQL engine**
+  - **Speaker(s):**
+    - **Dipti Borkar**, Co-Founder and Chief Product Officer, **Ahana**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/274813057/
+
