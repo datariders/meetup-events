@@ -1,0 +1,8 @@
+- **2021_03_30**
+  - **Title:**
+    - **How Netflix deploys pre-trained Deep Learning models in AWS using DJL**
+  - **Speaker(s):**
+    - **Gautam Kumar**, Senior Software Engineer, **Amazon**
+    - **Stanislav Kirdey**, Senior Software Engineer, **Netflix**
+  - **Slide deck link:** 
+  - **Video link:**  
