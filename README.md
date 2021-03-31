@@ -159,3 +159,10 @@ https://www.meetup.com/datariders
     - **Dipti Borkar**, Co-Founder and Chief Product Officer, **Ahana**
   - **Meetup link:**  https://www.meetup.com/datariders/events/274813057/
 
+- **2021_03_30**
+  - **Title:**
+    - **How Netflix deploys pre-trained Deep Learning models in AWS using DJL**
+  - **Speaker(s):**
+    - **Gautam Kumar**, Senior Software Engineer, **Amazon**
+    - **Stanislav Kirdey**, Senior Software Engineer, **Netflix**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/276592801/
