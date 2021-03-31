@@ -4,5 +4,6 @@
   - **Speaker(s):**
     - **Gautam Kumar**, Senior Software Engineer, **Amazon**
     - **Stanislav Kirdey**, Senior Software Engineer, **Netflix**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/276592801/
   - **Slide deck link:** 
   - **Video link:**  
