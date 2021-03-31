@@ -1,0 +1,8 @@
+- **2020_12_15**
+  - **Title:**
+    - **An introduction to Presto, the open source distributed SQL engine**
+  - **Speaker(s):**
+    - **Dipti Borkar**, Cofounder & CPO, **Ahana**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/274813057/
+  - **Slides**:
+    - https://speakerdeck.com/ahana/introduction-to-presto-an-open-source-distributed-sql-engine
