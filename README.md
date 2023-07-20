@@ -166,3 +166,11 @@ https://www.meetup.com/datariders
     - **Gautam Kumar**, Senior Software Engineer, **Amazon**
     - **Stanislav Kirdey**, Senior Software Engineer, **Netflix**
   - **Meetup link:**  https://www.meetup.com/datariders/events/276592801/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Gautam Kumar**, Senior Software Engineer, **Amazon**
+    - **Stanislav Kirdey**, Senior Software Engineer, **Netflix**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/276592801/
