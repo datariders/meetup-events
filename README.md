@@ -171,6 +171,6 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
   - **Speaker(s):**
-    - **Gautam Kumar**, Senior Software Engineer, **Amazon**
-    - **Stanislav Kirdey**, Senior Software Engineer, **Netflix**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
   - **Meetup link:**  https://www.meetup.com/datariders/events/276592801/
