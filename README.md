@@ -198,13 +198,15 @@ https://www.meetup.com/datariders
     - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
   - **Meetup link:**  https://www.meetup.com/datariders/events/289479537/
 
-- **2021_04_28**
+- **2022_12_13**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Arbitrary Stateful Stream Processing in PySpark**
   - **Speaker(s):**
-    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
-    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+    - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
+    - **Jerry Peng**, Staff Software Engineer, **Databricks**
+    - **Hyukjin Kwon**, Tech Lead Software Engineer, **Databricks**
+    - **Jungtaek Lim**, Senior Software Engineer, **Databricks**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/290125324/
 
 - **2021_04_28**
   - **Title:**
