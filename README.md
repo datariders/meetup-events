@@ -208,15 +208,14 @@ https://www.meetup.com/datariders
     - **Jungtaek Lim**, Senior Software Engineer, **Databricks**
   - **Meetup link:**  https://www.meetup.com/datariders/events/290125324/
 
-- **2021_04_28**
+- **2023_03_22**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Generative Deep Learning with Variational Autoencoders**
   - **Speaker(s):**
-    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
-    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+    - **Alex Kalinin**, Engineering Lead, AI / ML, Ads / Privacy, **Meta**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/291492309/
 
-- **2021_04_28**
+- **2023_07_18**
   - **Title:**
     - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
   - **Speaker(s):**
