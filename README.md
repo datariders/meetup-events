@@ -175,13 +175,13 @@ https://www.meetup.com/datariders
     - **Nadine Farah**, Senior Developer Advocate, **Rockset**
   - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
 
-- **2021_04_28**
+- **2021_06_17**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Druid + Trino FAANG Analytics (without the FAANG engineering cost)**
   - **Speaker(s):**
-    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
-    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+    - **Rachel Pedreschi, VP of Community & Developer Relations, **Imply**
+    - **Brian Olsen**, Trino Developer Advocate, **Starburst Data**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/278237452/
 
 - **2021_04_28**
   - **Title:**
