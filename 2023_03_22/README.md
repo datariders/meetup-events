@@ -1,6 +1,6 @@
 - **2023_03_22**
   - **Title:**
-    - **Using TensorFlow and Deep Learning for Image Recognition**
+    - **Generative Deep Learning with Variational Autoencoders**
   - **Speaker(s):**
-    - **Asim Jalis**, Senior Technical Trainer at **Amazon**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/229650124/
+    - **Alex Kalinin**, Engineering Lead, AI / ML, Ads / Privacy, **Meta**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/291492309/
