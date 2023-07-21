@@ -1,8 +1,9 @@
 - **2022_12_13**
   - **Title:**
-    - **Using TensorFlow and Deep Learning for Image Recognition**
+    - **Arbitrary Stateful Stream Processing in PySpark**
   - **Speaker(s):**
-    - **Asim Jalis**, Senior Technical Trainer at **Amazon**
+    - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
+    - **Jerry Peng**, Staff Software Engineer, **Databricks**
+    - **Hyukjin Kwon**, Tech Lead Software Engineer, **Databricks**
+    - **Jungtaek Lim**, Senior Software Engineer, **Databricks**
   - **Meetup link:**  https://www.meetup.com/datariders/events/229650124/
-  - **Slide deck link:**  http://www.slideshare.net/AsimJalis/neural-networks-and-deep-learning-62286693
-  - **Code for the demos:**  https://github.com/asimjalis/tensorflow-quickstart
