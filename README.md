@@ -169,7 +169,7 @@ https://www.meetup.com/datariders
 
 - **2021_04_28**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Realtime Analytics on DataLakes: Indexing Amazon S3 for upto 125x Faster Queries**
   - **Speaker(s):**
     - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
     - **Nadine Farah**, Senior Developer Advocate, **Rockset**
@@ -183,13 +183,12 @@ https://www.meetup.com/datariders
     - **Brian Olsen**, Trino Developer Advocate, **Starburst Data**
   - **Meetup link:**  https://www.meetup.com/datariders/events/278237452/
 
-- **2021_04_28**
+- **2022_09_21**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Project #Lightspeed - Next generation Apache Spark Structured Streaming**
   - **Speaker(s):**
-    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
-    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+    - **Dr. Karthik Ramasamy**, Co-founder and CTO, **Databricks**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/288337018/
 
 - **2021_04_28**
   - **Title:**
