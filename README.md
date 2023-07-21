@@ -217,8 +217,7 @@ https://www.meetup.com/datariders
 
 - **2023_07_18**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Declarative Reasoning with Timelines: The next step in Event Processing**
   - **Speaker(s):**
-    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
-    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+    - **Ben Chambers**, Founder and ML CTO, **Kaskada**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/294355785/
