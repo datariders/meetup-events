@@ -1,9 +1,7 @@
 - **2021_06_17**
   - **Title:**
-    - **Using TensorFlow and Deep Learning for Image Recognition**
+    - **Druid + Trino FAANG Analytics (without the FAANG engineering cost)**
   - **Speaker(s):**
-    - **Asim Jalis**, Senior Technical Trainer at **Amazon**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/229650124/
-  - **Slide deck link:**  http://www.slideshare.net/AsimJalis/neural-networks-and-deep-learning-62286693
-  - **Code for the demos:**  https://github.com/asimjalis/tensorflow-quickstart
-    
+    - **Rachel Pedreschi**, VP of Community & Developer Relations, **Imply**
+    - **Brian Olsen**, Trino Developer Advocate, **Starburst Data**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/278237452/    
