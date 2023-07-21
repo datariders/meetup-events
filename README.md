@@ -179,7 +179,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Druid + Trino FAANG Analytics (without the FAANG engineering cost)**
   - **Speaker(s):**
-    - **Rachel Pedreschi, VP of Community & Developer Relations, **Imply**
+    - **Rachel Pedreschi**, VP of Community & Developer Relations, **Imply**
     - **Brian Olsen**, Trino Developer Advocate, **Starburst Data**
   - **Meetup link:**  https://www.meetup.com/datariders/events/278237452/
 
