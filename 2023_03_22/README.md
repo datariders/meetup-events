@@ -4,5 +4,3 @@
   - **Speaker(s):**
     - **Asim Jalis**, Senior Technical Trainer at **Amazon**
   - **Meetup link:**  https://www.meetup.com/datariders/events/229650124/
-  - **Slide deck link:**  http://www.slideshare.net/AsimJalis/neural-networks-and-deep-learning-62286693
-  - **Code for the demos:**  https://github.com/asimjalis/tensorflow-quickstart
