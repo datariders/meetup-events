@@ -1,8 +1,7 @@
 - **2021_04_28**
   - **Title:**
-    - **Using TensorFlow and Deep Learning for Image Recognition**
+    - **Realtime Analytics on DataLakes: Indexing Amazon S3 for upto 125x Faster Queries**
   - **Speaker(s):**
-    - **Asim Jalis**, Senior Technical Trainer at **Amazon**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/229650124/
-  - **Slide deck link:**  http://www.slideshare.net/AsimJalis/neural-networks-and-deep-learning-62286693
-  - **Code for the demos:**  https://github.com/asimjalis/tensorflow-quickstart
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
