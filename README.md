@@ -173,4 +173,4 @@ https://www.meetup.com/datariders
   - **Speaker(s):**
     - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
     - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/276592801/
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
