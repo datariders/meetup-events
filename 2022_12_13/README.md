@@ -6,4 +6,4 @@
     - **Jerry Peng**, Staff Software Engineer, **Databricks**
     - **Hyukjin Kwon**, Tech Lead Software Engineer, **Databricks**
     - **Jungtaek Lim**, Senior Software Engineer, **Databricks**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/229650124/
+  - **Meetup link:**  https://www.meetup.com/datariders/events/290125324/
