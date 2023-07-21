@@ -174,3 +174,51 @@ https://www.meetup.com/datariders
     - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
     - **Nadine Farah**, Senior Developer Advocate, **Rockset**
   - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+
+- **2021_04_28**
+  - **Title:**
+    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+  - **Speaker(s):**
+    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
+    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
