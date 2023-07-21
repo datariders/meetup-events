@@ -4,5 +4,5 @@
   - **Speaker(s):**
     - **Ben Chambers**, Founder and ML CTO, **Kaskada**
   - **Meetup link:**  https://www.meetup.com/datariders/events/294355785/
-  - **Slide deck link:** [Slides PDF][./2023-07-19 Kaskada OSS.pdf]
+  - **Slide deck link:** [Slides PDF](2023-07-19 Kaskada OSS.pdf)
   - **Code for the demos:**
