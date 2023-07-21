@@ -187,7 +187,7 @@ https://www.meetup.com/datariders
   - **Title:**
     - **Project #Lightspeed - Next generation Apache Spark Structured Streaming**
   - **Speaker(s):**
-    - **Dr. Karthik Ramasamy**, Co-founder and CTO, **Databricks**
+    - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
   - **Meetup link:**  https://www.meetup.com/datariders/events/288337018/
 
 - **2021_04_28**
