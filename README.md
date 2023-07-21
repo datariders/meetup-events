@@ -190,13 +190,13 @@ https://www.meetup.com/datariders
     - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
   - **Meetup link:**  https://www.meetup.com/datariders/events/288337018/
 
-- **2021_04_28**
+- **2022_11_17**
   - **Title:**
-    - **Realtime Analytics on DataLakes:  Indexing Amazon S3 for upto 125x Faster Queries**
+    - **Rise of the Lakehouse with Delta Lake**
   - **Speaker(s):**
-    - **Dhruba Borthakur**, Co-founder and CTO, **Rockset**
-    - **Nadine Farah**, Senior Developer Advocate, **Rockset**
-  - **Meetup link:**  https://www.meetup.com/datariders/events/277011267/
+    - **Vijayan Prabhakaran,**, Senior Staff Engineer, **Databricks**
+    - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/289479537/
 
 - **2021_04_28**
   - **Title:**
