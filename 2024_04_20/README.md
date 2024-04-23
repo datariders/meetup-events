@@ -10,4 +10,4 @@
       - **Speaker:**
         - **Alex Kalinin**, Engineering Manager, AI / ML, Ads / Privacy, **Meta**
   - **Meetup link:**  https://www.meetup.com/datariders/events/300318737/
-  - **Slide link:**  
+  - **Slide link(s):**  
