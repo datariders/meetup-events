@@ -231,3 +231,17 @@ https://www.meetup.com/datariders
     - **Dr. Karthik Ramasamy**, Head of Streaming, **Databricks**
   - **Meetup link:**  https://www.meetup.com/datariders/events/297096700/
   - **Slide link:**  https://www.slideshare.net/yuiwweil/streaming-architecture-walkthroughpdf
+
+- **2024_04_20**
+  - **GenAI Day: Tech Talks & Hands-on Workshop by speakers from Microsoft & Meta**
+    - **THEME: Data platforms for the GenAI Era**
+      - **Speakers:**
+        - **Intro to Microsoft Fabric**, by **Dipti Borkar**, VP, Azure Data, **Microsoft**
+        - **CoPilots in Fabric - overview including SynapseML, Cognitive Services**, by **Raj Rikhy**, Principal GenAI and Data Product Manager, **Microsoft**
+        - **CosmosDB - the database for GenAI Apps**, by **Abinav Rameesh**, Principal Product Manager, **Microsoft**
+        - **Underneath the hood of Data service focused CoPilots**, by **Avrilia Floratou**, Principal Scientist Manager, **Microsoft**
+    - **THEME: Hands-on workshop: Introduction to Retrieval-Augmented Generation with Llama 2 and MongoDB**
+      - **Speaker:**
+        - **Alex Kalinin**, Engineering Manager, AI / ML, Ads / Privacy, **Meta**
+  - **Meetup link:**  https://www.meetup.com/datariders/events/300318737/
+  - **Slide link:**
